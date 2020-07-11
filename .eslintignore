@@ -1,0 +1,17 @@
+# node_modules
+node_modules/
+
+# build
+build/
+
+# dist
+dist/
+
+src/assets/lib
+app/assets/lib
+
+# serviceWorker
+src/serviceWorker.js
+app/serviceWorker.js
+
+!src/**/*.js
